@@ -1,0 +1,21 @@
+@import 'Container';
+@import 'Items';
+@import 'Folders';
+
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size:16px;
+    position:relative;
+}
+
+body {
+    background-color:#181818;
+    position:relative;
+    color:#f7f7f7;
+    font-family: 'Roboto', sans-serif;
+}
